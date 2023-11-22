@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
-# prueba-tecnica
+# Practica_Richard
 >>>>>>> db70c98c7893550a3f34f1f5cfc7c383b5e1942b
-Prueba tecnica de react : Cesar Alejandro ramirez Zuluaga
+Practica_Richard : Andrey Campiño Agudelo
